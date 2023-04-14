@@ -1,1 +1,5 @@
 # germinating_alfalfa_seed
+
+Lili Tian, Leilei Ding*, Xin Rao, Mengya Wang, Puchang Wang. (2023).
+EFFECTS OF SIMULATED SOIL ALUMINIUM TOXICITY ON GERMINATION POTENTIAL AND GERMINATION RATE OF ALFALFA SEED WERE REGULATED BY VARITIES
+Fresenius Environmental Bulletin. 32(03): 1235-1243
